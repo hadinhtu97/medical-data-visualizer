@@ -1,0 +1,2 @@
+def lorem(lorem):
+    pass
